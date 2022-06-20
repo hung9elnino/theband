@@ -6,7 +6,9 @@
 }
 /* Tablet */
 @media (min-width: 740px) and (max-width: 1023px) {
-    
+    #header .mobile-menu-btn{
+        display: none;
+    }
 }
 /* Mobile */
 @media (max-width: 739px) {

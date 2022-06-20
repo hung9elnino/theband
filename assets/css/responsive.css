@@ -1,6 +1,8 @@
 /* PC */
 @media (min-width: 1024px) {
-
+    #header .mobile-menu-btn{
+        display: none;
+    }
 }
 /* Tablet */
 @media (min-width: 740px) and (max-width: 1023px) {
